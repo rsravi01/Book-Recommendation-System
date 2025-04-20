@@ -85,7 +85,7 @@ Open your browser and go to:
 http://127.0.0.1:5000/
 
 File Structure
-
+```
 |-- static/
 |   |-- style.css  # Styles for the web pages
 |-- templates/
@@ -100,7 +100,7 @@ File Structure
 |-- similarity_scores.pkl  # Precomputed similarity scores
 |-- app.py  # Flask web app
 |-- README.md  # Project documentation
-
+```
 Future Improvements
 
 Implement Hybrid Filtering (Collaborative + Content-Based) for better accuracy.
